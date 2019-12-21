@@ -4,26 +4,6 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hi, I am Stephan from Germany. I love technology and taking things apart and putting them back together and see what happens. Back in the day this was only referring to software, but for the last couple of years I became more involved in the Internet of Things (IoT) space with a focus on intelligent buildings and smart products.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+This is my personal blog that documents what worked well for me with making my own home smarter and coming closer to that utopian vision where techology actually serves us in useful ways.
