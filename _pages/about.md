@@ -8,4 +8,14 @@ Hi, I am Stephan from Germany. I love technology and taking things apart and put
 
 This is my personal blog that documents what worked well for me with making my own home smarter and coming closer to that utopian vision where techology actually serves us in useful ways.
 
-Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](www.flaticon.com).
+## Legal Things
+
+This page is run by
+
+[Stephan Hochhaus](mailto:stephan@yauh.de)
+Stadionring 5
+D-44791 Bochum
+
+Disqus and Google Analytics are used on this site.
+
+Connected Home icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](www.flaticon.com).
